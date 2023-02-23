@@ -2,8 +2,10 @@ node_modules
 .env
 coverage
 coverage.json
+yarn.lock
 
 #Hardhat files
 cache
-artifactsc
+artifacts
 .vscode
+deployments
